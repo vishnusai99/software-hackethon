@@ -1,0 +1,9 @@
+.p1{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.c1{
+    width:50%;
+}

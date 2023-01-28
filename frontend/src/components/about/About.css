@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+
+h1,p{
+    font-family: 'Righteous', cursive;
+    text-align: center;
+}
+h2{
+    font-family: 'Righteous', cursive;
+    text-align: center;
+    color: rgb(40, 195, 195);
+}
+p{
+    font-size: large;
+}
+.abt{
+    
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
